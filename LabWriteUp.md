@@ -28,7 +28,7 @@ else
     echo "Your score is $successes / $tests"
 fi
 ```
-![image](output)
+![image](output.png)
 
 After trying to print lastline, as the TA suggested, I realized that the bug only occurred for passed tests. Instead of having several fields describing the failed tests, it just states the number of tests passed and the time it takes. Because of this, the `awk` command does not work as intended and is not able to assign values to the tests, failures, and successes variables. 
 
