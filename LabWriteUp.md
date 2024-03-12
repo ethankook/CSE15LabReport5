@@ -46,7 +46,7 @@ The bug was that for passed tests, instead of having several fields describing t
 
 
 **Directory Structure**
-![image](structure1,png)
+![image](structure1.png)
 ![image](structure2,png)
 
 The images above show the structures of the relevant directories: Lab7 and grading-area.
