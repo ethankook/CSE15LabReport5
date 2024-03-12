@@ -49,6 +49,11 @@ The bug was that for passed tests, instead of having several fields describing t
 ![image](structure1.png)
 ![image](structure2.png)
 
-The images above show the structures of the relevant directories: Lab7 and grading-area.
+The images above show the structures of the relevant directories: list-exanmles-grader and grading-area.
+
+
+**Contents of file before fix**
+![image](contents.png)
+
 
 
