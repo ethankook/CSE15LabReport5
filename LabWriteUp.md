@@ -8,4 +8,4 @@
 
 **TA RESPONSE:**
 
-
+![image](LR5SS2.png)
